@@ -1,2 +1,0 @@
-# FlowChartEditor
-A Flowchart editor
